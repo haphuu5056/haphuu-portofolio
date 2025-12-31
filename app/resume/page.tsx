@@ -52,6 +52,37 @@ export default function ResumePage() {
               </li>
             </ul>
           </div>
+         <div className="mb-8">
+            <div className="flex justify-between items-start mb-2">
+              <h3 className="text-lg font-semibold text-foreground">
+                Web Developer mentor
+              </h3>
+              <span className="text-sm text-muted-foreground">
+                May 2025 – Present
+              </span>
+            </div>
+            <p className="text-accent font-medium mb-2">
+              Yoolhub, Mogadishu, Somalia
+            </p>
+            <ul className="text-muted-foreground space-y-2 list-disc list-inside">
+              <li>
+                Mentored aspiring web developers in mastering front-end
+                technologies such as HTML, CSS, JavaScript, and React.js.
+              </li>
+              <li>
+                Provided guidance on best practices for responsive design,
+                accessibility, and performance optimization.
+              </li>
+              <li>
+                Assisted mentees in building real-world projects, offering
+                constructive feedback and code reviews to enhance their skills.
+              </li>
+              <li>
+                Conducted workshops and coding sessions to foster a collaborative
+                learning environment.
+              </li>
+            </ul>
+          </div>
         </section>
 
         {/* SKILLS */}

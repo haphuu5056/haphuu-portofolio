@@ -111,7 +111,7 @@ export default function ContactPage() {
                   <Mail className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Email</h3>
-                    <p className="text-muted-foreground">hello@hafsaabdullahi.dev</p>
+                    <p className="text-muted-foreground">xafo.xubbi123@gmail.com</p>
                   </div>
                 </div>
 
@@ -119,7 +119,7 @@ export default function ContactPage() {
                   <Phone className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Phone</h3>
-                    <p className="text-muted-foreground">+1 (555) 000-0000</p>
+                    <p className="text-muted-foreground">+252612698278</p>
                   </div>
                 </div>
 
@@ -127,7 +127,7 @@ export default function ContactPage() {
                   <MapPin className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Location</h3>
-                    <p className="text-muted-foreground">Toronto, Canada</p>
+                    <p className="text-muted-foreground">Mogadishu, Somalia</p>
                   </div>
                 </div>
               </div>

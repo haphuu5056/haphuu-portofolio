@@ -39,14 +39,23 @@ export default function ProjectsPage() {
     },
     
     {
-      title: "Portfolio Website",
+      title: "smart-notes | Note Taking App",
       description:
-        "Responsive portfolio website showcasing projects and skills with smooth animations and modern design principles. Optimized for performance and SEO with dark mode support.",
-      technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+        "A note-taking application built with React and TypeScript, featuring a clean UI and intuitive interface for organizing thoughts and ideas.",
+      technologies: ["Next.js", "TypeScript", "Tailwind CSS", "supabase", "prisma"],
       link: "#",
       github: "#",
-      image: "/portfolio-website-design.png",
+      image: "/images/note.png",
     },
+    // {
+    //   title: "Portfolio Website",
+    //   description:
+    //     "Responsive portfolio website showcasing projects and skills with smooth animations and modern design principles. Optimized for performance and SEO with dark mode support.",
+    //   technologies: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    //   link: "#",
+    //   github: "#",
+    //   image: "/portfolio-website-design.png",
+    // },
     
   ]
 
