@@ -14,12 +14,12 @@ export default function Footer() {
             </h4>
             <div className="flex flex-row gap-6">
               <div className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
-                <Phone className="w-4 h-4" />
-                <span className="text-sm">+1 (555) 000-0000</span>
+                <Phone className="w-4 h-4 shrink-0" />
+                <span className="text-sm">+252 612 698 278</span>
               </div>
               <div className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
-                <Mail className="w-4 h-4" />
-                <span className="text-sm">hello@hafsaabdullahi.dev</span>
+                <Mail className="w-4 h-4 shrink-0" />
+                <span className="text-sm">xafo.xubbi123@gmail.com</span>
               </div>
             </div>
           </div>
@@ -31,7 +31,7 @@ export default function Footer() {
             </h4>
             <div className="flex gap-4">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/hafsa-apdullhi/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full bg-secondary flex items-center justify-center text-secondary-foreground hover:opacity-80 transition-opacity"

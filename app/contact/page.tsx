@@ -108,7 +108,7 @@ export default function ContactPage() {
               <h2 className="text-2xl font-bold text-foreground mb-6">Contact Information</h2>
               <div className="space-y-4">
                 <div className="flex gap-4 items-start">
-                  <Mail className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                  <Mail className="w-5 h-5 text-primary mt-1 shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Email</h3>
                     <p className="text-muted-foreground">xafo.xubbi123@gmail.com</p>
@@ -116,7 +116,7 @@ export default function ContactPage() {
                 </div>
 
                 <div className="flex gap-4 items-start">
-                  <Phone className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                  <Phone className="w-5 h-5 text-primary mt-1 shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Phone</h3>
                     <p className="text-muted-foreground">+252612698278</p>
@@ -124,7 +124,7 @@ export default function ContactPage() {
                 </div>
 
                 <div className="flex gap-4 items-start">
-                  <MapPin className="w-5 h-5 text-primary mt-1 flex-shrink-0" />
+                  <MapPin className="w-5 h-5 text-primary mt-1 shrink-0" />
                   <div>
                     <h3 className="font-semibold text-foreground">Location</h3>
                     <p className="text-muted-foreground">Mogadishu, Somalia</p>
@@ -138,7 +138,7 @@ export default function ContactPage() {
               <h2 className="text-2xl font-bold text-foreground mb-6">Connect With Me</h2>
               <div className="flex gap-4">
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/hafsa-apdullhi/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 rounded-full bg-secondary text-secondary-foreground flex items-center justify-center hover:opacity-80 transition-opacity"
